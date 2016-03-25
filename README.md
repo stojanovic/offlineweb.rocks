@@ -2,6 +2,6 @@
 
 <p align="center">
   <a href="http://jsbelgrade.org">
-    <img height="250" width="600" src="offlinewebrocks.svg">
+    <img height="200" width="500" src="offlinewebrocks.png">
   </a>
 </p>
